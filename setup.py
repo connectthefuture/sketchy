@@ -30,7 +30,7 @@ setup(
             'Flask-SQLAlchemy==1.0',
             'MySQL-python==1.2.5',
             'Flask-Script==2.0.5',
-            'SQLAlchemy==0.9.7',
+            'SQLAlchemy==1.3.0',
             'Flask-RESTful==0.2.12',
             'requests==2.3.0',
             'gunicorn==19.1.0',
