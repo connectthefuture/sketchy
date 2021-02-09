@@ -39,7 +39,7 @@ setup(
             'celery==3.1.13',
             'boto==2.32.1',
             'redis==2.10.1',
-            'lxml==3.3.5',
+            'lxml==4.6.2',
             'subprocess32==3.2.6',
             'netaddr==0.7.18'
         ]
