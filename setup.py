@@ -26,7 +26,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-            'Flask==0.10.1',
+            'Flask==1.0',
             'Flask-SQLAlchemy==1.0',
             'MySQL-python==1.2.5',
             'Flask-Script==2.0.5',
